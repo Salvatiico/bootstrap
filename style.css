@@ -1,0 +1,29 @@
+#ola{
+    width: 50%;
+}
+#euteamolaura{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.oi{
+    align-items: center;
+    text-align: center;
+}
+nav{
+    gap: 40px;
+}
+.card{
+height: 100%;
+display: flex;
+flex-direction: column;
+}
+.my-carousel{
+    width: 50%;
+    margin: 30px;
+}
+.pra{
+    width: 50%;
+    height: 400px;
+}
